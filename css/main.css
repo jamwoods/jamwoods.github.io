@@ -3,8 +3,41 @@
 WSP COMPONENT LIBRARY STYLESHEET
 ================================================================================ */
 
+body{
+ background-color: #94bdf0;
+ position: relative;
+ width: 80%; 
+ display: block;
+ margin-left:auto;
+ margin-right:auto;
 
+}
 
+#components{
+ width: 80%; 
+ display: block;
+ margin-left:auto;
+ margin-right:auto;
+}
+
+h2{
+	margin:1.5em 0em .5em 0em;
+	font-size: 1.2em;
+	font-family: Georgia;
+	text-decoration: underline bold;
+
+}
+
+#title{
+	width: 20%;
+	background-color: #f9d854;
+	padding: .2em;
+}
+
+p {
+	
+	font-family: "Book Antiqua";
+}
 /* HEADER SPECIFIC ======================================== */
 
 /* ABOUT SPECIFIC ======================================== */
