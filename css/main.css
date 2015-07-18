@@ -44,7 +44,7 @@ h2{
 }
 
 #title{
-	display: inline-block;
+	display: block;
 	width: 25%;
 	background-color: #f9d854;
 	padding: .2em;
