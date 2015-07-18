@@ -59,9 +59,9 @@ p {
 
 #registration{
 	display:block; /* change this from inline-block */
-    width:15%; /* setting the width */
+    width:20%; /* setting the width */
     height:15%;
-    padding: 1em;
+    padding: .5em;
     margin:1em 0em 2em 0em;
     font-size: 1em;
     font-family: Georgia;
