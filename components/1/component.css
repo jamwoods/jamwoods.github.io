@@ -6,6 +6,7 @@ COMPONENT STYLESHEET
 /* HEADER ======================================== */
 
 ul{
+	border-radius: 10%;
 	margin: auto;
 }
 li{
