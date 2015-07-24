@@ -40,14 +40,12 @@ a:link {
 }
 
 #left {
-padding-left: 2.25em;
 -webkit-box-shadow: -12px 15px 25px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: -12px 15px 25px 0px rgba(0,0,0,0.75);
 box-shadow: -12px 15px 25px 0px rgba(0,0,0,0.75);
 }
 
 #right{
-padding-right: 2.25em;
 -webkit-box-shadow: 12px 15px 25px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 12px 15px 25px 0px rgba(0,0,0,0.75);
 box-shadow: 12px 15px 25px 0px rgba(0,0,0,0.75);
