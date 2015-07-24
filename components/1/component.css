@@ -39,10 +39,12 @@ a:link {
 }
 
 #left {
-padding-left: 2em;
+padding-left: 2.25em;
+border-radius:10%;
 }
 
 #right{
-padding-right: 2em;
+padding-right: 2.25em;
+border-right:10%;
 }
 /* HEADER ======================================== */
