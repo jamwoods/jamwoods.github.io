@@ -41,7 +41,7 @@ a:link {
 
 #left {
 padding-left: 2.25em;
-box-shadow: -5px -5px 5px grey;
+box-shadow: -5px 5px 5px grey;
 }
 
 #right{
