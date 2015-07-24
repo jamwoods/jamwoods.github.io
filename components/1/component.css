@@ -18,7 +18,7 @@ nav{
 	background:#541e00;
 	margin-left: auto;
     margin-right: auto;
-    box-shadow: 10px 10px 5px grey;
+
 }
 
 
@@ -41,9 +41,11 @@ a:link {
 
 #left {
 padding-left: 2.25em;
+box-shadow: 10px 10px 5px grey;
 }
 
 #right{
 padding-right: 2.25em;
+ box-shadow: 10px 10px 5px grey;
 }
 /* HEADER ======================================== */
