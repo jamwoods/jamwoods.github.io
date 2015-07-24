@@ -12,6 +12,9 @@ html, body{
 	background-color: #ffffff;
 }
 
+nav{
+	height:10%;
+}
 ul{
 	height:100%;
 	border-color:red;
