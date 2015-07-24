@@ -39,7 +39,7 @@ a:link {
 }
 
 #left {
-padding-left: 2em
+padding-left: 2em;
 -webkit-box-shadow: -12px 15px 25px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: -12px 15px 25px 0px rgba(0,0,0,0.75);
 box-shadow: -12px 15px 25px 0px rgba(0,0,0,0.75);
