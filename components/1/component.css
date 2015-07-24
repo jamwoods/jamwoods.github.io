@@ -10,6 +10,7 @@ nav{
 	border-radius: 10%;
 	margin: auto;
 	display: block;
+	background:#541e00;
 }
 
 li{
@@ -22,7 +23,6 @@ li{
 	float:left;
     background:#541e00;
 	border-color:red;
-	border-radius: 10%;
 }
 
 a:link {
