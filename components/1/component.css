@@ -6,9 +6,11 @@ COMPONENT STYLESHEET
 /* HEADER ======================================== */
 
 nav{
+	border-color:red;
 	border-radius: 10%;
 	margin: auto;
 }
+
 li{
 	list-style-type: none;
 	font-size:1.2em;
