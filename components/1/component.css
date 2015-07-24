@@ -15,7 +15,7 @@ li{
 	text-align:center;
 	padding: 1em;
 	float:left;
-    background:#772a00;
+    background:#541e00;
 	border-right: 
 	padding: .25% 2.0%;
 }
@@ -23,7 +23,7 @@ li{
 a:link {
     color: #ffffff;
     text-decoration: none;
-    padding: .25%;
+    padding: .30%;
 }
 
 /* HEADER ======================================== */
