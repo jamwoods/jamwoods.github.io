@@ -11,13 +11,12 @@ ul{
 li{
 	list-style-type: none;
 	font-size:1.2em;
-	font-color: #ffffff;
+	color: #ffffff;
 	text-align:center;
 	padding: 1em;
 	float:left;
     background:#873001;
-	border: .1em #000000;
-	border-style: solid;
+	border-right: 
 	text-decoration: underline;	
 	padding: .25% 2.0%;
 }
