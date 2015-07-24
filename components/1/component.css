@@ -14,7 +14,8 @@ html, body{
 
 nav{
 	height:20%;
-	width:50%;
+	width:80%;
+	border-radius:10%;
 }
 ul{
 	border-color:red;
