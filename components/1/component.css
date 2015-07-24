@@ -6,14 +6,18 @@ COMPONENT STYLESHEET
 /* HEADER ======================================== */
 
 
-/**ul{
+body{
+	width:100%;
+	height:100%;
+}
+ul{
 	border-color:red;
 	border-radius: 10%;
-	 margin-left: auto;
+	margin-left: auto;
     margin-right: auto;
 	display: block;
 	background:#541e00;
-}**/
+}
 
 li{
 	list-style-type: none;
