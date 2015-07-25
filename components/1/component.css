@@ -38,13 +38,13 @@ li{
 	padding: 1em;
 	display: inline;
 	float:left;
+}
 
-
-a:link {
+a{
+	font: #ffffff;
 	display:inline-block;
-    color: #ffffff;
-    text-decoration: none;
-    padding:10px;
+	text-decoration: none;
+	padding:2em;
 }
 
 #left {
