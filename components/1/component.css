@@ -15,7 +15,6 @@ html, body{
 nav{
 	height:25%;
 	width:62%;
-	background:#541e00;
 	margin-left: auto;
     margin-right: auto;
 
@@ -38,6 +37,7 @@ li{
 	padding: 1em;
 	display: inline;
 	float:left;
+	background:#541e00;
 }
 
 a{
