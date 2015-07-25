@@ -41,10 +41,10 @@ li{
 }
 
 a{
-	font: #ffffff;
+	color: #ffffff;
 	display:inline-block;
 	text-decoration: none;
-	padding:2em;
+	padding:.25em;
 }
 
 #left {
