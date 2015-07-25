@@ -36,15 +36,15 @@ li{
 	text-transform: uppercase;
 	text-align:center;
 	padding: 1em;
-	 display: inline-block;
+	display: inline;
 	float:left;
 
-}
 
 a:link {
+	display:inline-block;
     color: #ffffff;
     text-decoration: none;
-    padding: .30%;
+    padding:10px;
 }
 
 #left {
